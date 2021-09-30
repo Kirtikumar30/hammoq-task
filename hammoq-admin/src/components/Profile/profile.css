@@ -1,0 +1,19 @@
+.c-image{
+    max-width: 120px;
+}
+.media-object { 
+    width: 120px;
+    border-radius:(40px);
+    border: 2px solid transparent;
+    transition:(all .3s ease-in-out);
+}
+.img-size {
+    width: 65px;
+    height: 70px;    
+} 
+.c-user-photo{
+    height: 60px!important;
+    inline-size:60px !important;
+    background-image: url("../../assets/img/dummyFace.jpg");        
+    background-size: cover !important;
+}
